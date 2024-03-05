@@ -35,24 +35,19 @@
   <code><img height="40" src="https://github.com/jupyter/design/blob/main/logos/Square%20Logo/squarelogo-whitetext-orangebody-whitemoons/squarelogo-whitetext-orangebody-whitemoons.png"></code>
   <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg"></code>
   <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"></code>
-   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686779-5fdd5f80-0bbd-11eb-9a0b-8eb90d565518.png"></code>
+  <code><img height="40" src="https://cdn-ckjba.nitrocdn.com/XvHIXtRQMUYzLjoXbfBpiwAcydcSSOVj/assets/images/optimized/rev-d85625b/www.ciat.edu/wp-content/uploads/2021/10/SQLLOGO.png"></code>
   
 
-  </p>
-  
-&nbsp;  
 
   <!-- Skills to learn -->
-<p><H3 align="center"><strong>Skills to learn: 🌐</strong></p>
+<p><h3 align="center"><strong>Skills to learn: 🌐</strong></p>
+  <code><img height="40" src="https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png"></code>
+  <code><img height="40" src="https://images.credly.com/size/680x680/images/cbe961ef-3536-47a1-be43-14c461a3216e/image.png"></code>
+  <code><img height="35" src="https://udemy-certificate.s3.amazonaws.com/image/UC-0f908ffd-d1a7-41da-be20-d703ca7a9e00.jpg?v=1701042395000"></code>  
+  <code><img height="35" src="https://udemy-certificate.s3.amazonaws.com/image/UC-2329a047-49f3-4702-9440-c68daa83822f.jpg?v=1660822654000"></code> 
+
   
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/101125928-05122400-35c0-11eb-836b-4c2e4de16070.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/99864609-ecd6e980-2b69-11eb-8268-1a455c00eefe.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/99864949-fbbe9b80-2b6b-11eb-8b5a-4ca8cd68261e.png"></code>  
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688807-0d567000-0bca-11eb-8cec-9a813166d3d8.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686219-bd6fad00-0bb9-11eb-9dfd-be7dd980d005.png"></code>
-  
-  </p>
-&nbsp;
+
+
 
 
